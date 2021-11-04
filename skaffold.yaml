@@ -8,6 +8,8 @@ deploy:
 build:
   local:
     push: false
+  # googleCloudBuild:
+  #   projectId: clear-talent-331019
   artifacts:
     - image: ticketing/auth
       context: auth
