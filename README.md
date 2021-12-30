@@ -2,7 +2,7 @@
 
 A ticket booking website.
 
-The service is done in TypeScript, deployed using Docker and Kubernetes, and managed by Skaffold.
+The service is done in TypeScript, deployed using Docker and Kubernetes, and automated by Skaffold.
 
 ## The Micro Service architecture
 
